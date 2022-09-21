@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T05:43:56.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vNQNK8mj4MOnAdgZLvOj" version="20.3.2" type="github" pages="2"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5VnbcpswEP0azSQP7ZirxSNgSK9J27R12zfFKIYGIxfk2M7XdyWEMYXYTtKUNp3JTNDRai3t7jlobWT4s9VJTubxWxbRFOmDaIWMEdJ1zTR1+CeQdYnYmgKmeRKV0KAGzpMbqlZW6CKJaKGwEuKMpTyZN8EJyzI64Q2M5DlbNs0uWRo1gDmZ0hZwPiFpGx0nEY9LFOvDGn9Bk2lcfbJmO+XMjFTG6iRFTCK23IKMABl+zhgvn2Yrn6YieFVcxi/X4/TNlX3y6n3xg3zyXn88/fysdBbeZcnmCDnN+L1df3v90f7qf7iY47Pw9NKdZOen4TNDHY2vq3jRCMKnhiznMZuyjKRBjXo5W2QRFV4HMKpt3jA2B1AD8DvlfK1qgSw4Ayjms1TNwiny9Rex/rlVDb8qd3IwWjVGazU6MAwqXAVb5BO6w06dnZN8SvmOGKn0i8BslZQK8gllMwqbBIOcpoQn1826I6p8pxu7OkXwoLJ0h2JQu74m6UJ9EgochDWERyiwEA4Qti+SDOngfoACLBBvKKdC5NgoGCLPRC5M2cgZIWcgp+DPkIiFPDkF3txgC4FVHsJmq1zqYhCZXcYJp+dzIuO+BEFpJv6SZVxVBaiI4U1TUhQquQXP2dWGosJ6w7e75/6a5pyudmZLzRoVu5W86aYaL2ux0A2FxVtCUdk9JMGd5ab3Qcn7U2sXZfZSS+uLWrt23aCWLajiOVuUeBh/6geMXEMshE1lk3QR0TBJ4UUZhMjzEfZjKLWSxClbHkkuO8j1kINRYCJvJHgNPsResFSAoSA4vCDJFc2lOViFyNXkbjTkhu3dHIsPEKgn/IgHW05bQjFcS9iBc+yVjCoSlknHFnLh4EMZHBAX68mLwmbcmyi0Y/zviUJ1+9snCuZfJQpV8WyLgmSWM6qYgLsY88QpYQ76psTwCVDCPJAS9l9FCbObElD3rnwljcTff0gJ3DclNK0V5H+PE/aBnMB9cWL8MhyfvcLah7ObsZd9vzxx9Fk/t/ZNI70ZyDa67qp3NtK/RO5xU9gZtMEDMyaXunlO1lsGc5ZkvNjy/E4ANW2todWgra3/8r3JHnvctIeHcgd17WyOcn8m2x0Sa4ubhrjGW6LrcG3VB8BVBCTWKfsAsPGR60sbv7rqN9qVI6XMXqdoSwR8iZ4GFjiquREyfmuXc6x6FidsS3zMZheLYr+8P5pGa83kWXaHRpsdGq3pv0GkO4u+R41+PMbjP8T4B70ecYtUmq5h1dICpURHLb8mK4tbdMVhVeVtfX9q15fhn2xyby+Ou7datyvT0f5vVo57zmsrX4em+uC84kfs1GBY//5RvvvqX5GM4Cc=</diagram><diagram id="9YTtIRSdV7n4-6MXiASC" name="第 2 页">dZDNDsIgEISfhnsLiT/nWvXiqQfPpKyFhLKEYtr49NJQrKR62GT321mYDGFVP10ct/KGAjShReeUIOxEKC1DBWB5BxmYFY16JVgs9KkEDJnQI2qvbA5bNAZanzHuHI657IF6a6NpuYYNvSvhZaQHul/5FVQn00fl7hg3PU/ixfggucDxC7GasMoh+tj1UwV6TiblEu/Of7YfYw6M/3EQmvXtMGTxs/oN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-21T06:25:13.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qmqj9hk18BVEkQ5W9P5S" version="20.3.2" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1662" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ZKT6YCRbp8OFNfAcnSNF-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="遍历bin, 获取素材元数据数组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="240" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-0" target="ZKT6YCRbp8OFNfAcnSNF-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-0" value="根据素材元数据数组组装 includeFiles，high, low( 高低质量 faker 信息数组),更新工程 version 字段" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="320" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-1" target="ZKT6YCRbp8OFNfAcnSNF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-1" value="保存工程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="400" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-4" target="ZKT6YCRbp8OFNfAcnSNF-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-4" value="上载工程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="480" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-6" target="ZKT6YCRbp8OFNfAcnSNF-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFWOJ81ROzWBnjfG92m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-6" target="WIFWOJ81ROzWBnjfG92m-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="620" />
+              <mxPoint x="575" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-6" value="是否使用本地素材(已上载且写入元数据)？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="315" y="560" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFWOJ81ROzWBnjfG92m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZKT6YCRbp8OFNfAcnSNF-8" target="WIFWOJ81ROzWBnjfG92m-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKT6YCRbp8OFNfAcnSNF-8" value="1218 后台替换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="720" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFWOJ81ROzWBnjfG92m-0" value="保存工程元数据(includeFiles，high, low, version)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="800" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9YTtIRSdV7n4-6MXiASC" name="第 2 页">
+    <mxGraphModel dx="978" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYqj9HbE_CUIEsGngm6t-1" target="nzlnlgGEkzfFR_KYacTE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYqj9HbE_CUIEsGngm6t-1" value="projectdata获取工程元数据(includeFiles，high, low, version)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzlnlgGEkzfFR_KYacTE-1" target="nzlnlgGEkzfFR_KYacTE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-1" value="遍历high、low 写高低质量 fake 文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzlnlgGEkzfFR_KYacTE-2" target="nzlnlgGEkzfFR_KYacTE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-2" value="遍历 includeFiles，判断是否有 other 或 aegraphic 文件，获取文件http路径进行下载（也会添加到map数组）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzlnlgGEkzfFR_KYacTE-5" target="nzlnlgGEkzfFR_KYacTE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-5" value="遍历高低质量 fake 数组，生成 map 数组(contentId, high, low, type)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzlnlgGEkzfFR_KYacTE-8" target="nzlnlgGEkzfFR_KYacTE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-8" value="获取工程路径并下载至本地" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzlnlgGEkzfFR_KYacTE-11" target="nzlnlgGEkzfFR_KYacTE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-11" value="引入下载的工程到pr" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzlnlgGEkzfFR_KYacTE-13" value="根据 map 数组进行替换高质量，挂载低质量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
